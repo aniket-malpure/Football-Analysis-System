@@ -10,7 +10,7 @@ Key components of this project include:
 - **Perspective Transformation**: Estimating real-world movement in meters, not just in pixels, using perspective correction.
 - **Speed & Distance Estimation**: Estimating players' speed and total distance covered.
 
-![Screenshot](output_videos/screenshot.png)
+![Screenshot](output/screenshot.png)
 
 ---
 
