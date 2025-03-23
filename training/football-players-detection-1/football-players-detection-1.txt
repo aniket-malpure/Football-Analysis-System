@@ -1,0 +1,1 @@
+Executing the below code in "football_training_yolo_v5.ipynb" will create dataset here with the same name as this file name in a structured format.
